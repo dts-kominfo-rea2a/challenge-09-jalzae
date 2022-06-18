@@ -1,0 +1,17 @@
+.box {
+    height: 200px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    background-color: whitesmoke;
+}
+.rounded {
+    border-radius: 50%;
+    max-width: 250px;
+    margin: 20px;
+}
+.block {
+    display: block;
+    margin-left: 20px;
+}
